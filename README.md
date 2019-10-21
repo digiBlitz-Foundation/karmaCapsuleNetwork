@@ -1,6 +1,6 @@
 # Welcome to GitHub
 
-Welcome to karma Capsule Network website!
+Welcome to karma Capsule Network website!  
 
 ## Repositories
 
